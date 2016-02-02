@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("fuck\n");
+	//printf("fuck\n");
+	strcat("he", "llo");
 	return 0;
 }
 
