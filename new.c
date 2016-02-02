@@ -2,8 +2,10 @@
 
 int main()
 {
-	printf("fuck\n");
-	return 0;
+	//printf("fuck\n");
+	strcat("he", "llo");
+
+	printf("klsdf");
 }
 
 
