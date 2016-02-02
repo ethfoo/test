@@ -1,5 +1,13 @@
 #include <stdio.h>
 
-void change(int *x, int *t);
+int main()
+{
+	//printf("fuck\n");
+	strcat("he", "llo");
+
+	printf("klsdf");
+
+	return 0;
+}
 
 
