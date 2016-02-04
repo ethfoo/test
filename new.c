@@ -2,7 +2,6 @@
 
 int main()
 {
-	//printf("fuck\n");
 	strcat("he", "llo");
 
 	printf("klsdf");
