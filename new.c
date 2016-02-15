@@ -6,7 +6,6 @@ int main()
 
 	printf("klsdf");
 
-	return 0;
 }
 
 
